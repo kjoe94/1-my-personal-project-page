@@ -1,0 +1,52 @@
+Kirby Adcock
+Junior Web Developer
+Houston, Tx  •  (123) 456-7890  •  kirbya@resumeworded.com  •  linkedin.com/in/your-profile
+EXPERIENCE
+
+
+
+Resume Worded
+January 2022 - Present
+Junior Web Developer
+Efficiently programmed and debugged new website components, resolving 80% of prior existing coding errors.
+Optimized website load time by 35% using speed optimization techniques such as code minification, image optimization, and using CSS sprites.
+Improved page responsiveness resulting in better user experience, which led to a 40% increase in site traffic.
+Coached.com
+June 2021 - December 2021
+Web Development Intern
+Accomplished a complete redesign of the company's primary website using HTML and CSS, increasing web traffic by 20%.
+Facilitated a moderate decrease in server response time by implementing effective database querying.
+Significantly contributed to improving the company’s SEO ranking, making it to the top 5 Google search results within 3 months.
+William and Mary College
+August 2019 - May 2021
+Computer Science Tutor
+Planned and delivered effective tutoring sessions in HTML, CSS, and JavaScript for over 50 students per semester.
+Developed and maintained a website to support online learning, which was used by more than 300 students per semester.
+Consistently received positive feedback for creating individualized coding exercises, resulting in a 30% improvement in the students' practical exam scores.
+Morphx Design Studios
+May 2019 - August 2019
+Graphic Designer Intern
+Designed web-compliant graphics that increased website interactivity by 20%.
+Expedited the design process by 25% by utilizing software tools effectively.
+Collaborated with a team of web developers to incorporate graphic designs into existing website templates, improving visual appeal by 15%.
+EDUCATION
+Resume Worded University
+May 2021
+Bachelor of Science in Computer Science
+Specialization in Web Development and User Experience
+Part-time studies during the role as Computer Science Tutor
+Resume Worded Institute
+December 2021
+Full Stack Web Development Certificate
+Completed a comprehensive project-based curriculum
+Acquired skills in MERN stack: MongoDB, Express.js, React, Node.js
+SKILLS
+Languages: HTML5, CSS3, JavaScript (ES6), SQL, Python, PHP
+Frameworks/Libraries: React, Node.js, Express.js, Bootstrap, jQuery, AJAX
+Tools & Platforms: Git, GitHub, Webpack, Babel, NPM, Visual Studio Code
+Additional Skills: Responsive Design, RESTful API Development, Agile Methodologies, Debugging
+OTHER
+Certifications: Web Accessibility Certification by Resume Worded Academic Center (2022)
+Volunteering: Volunteer Web Developer for local animal shelter website redesign (2020-Present)
+Awards: Recognized as ‘Outstanding Intern of the Year’ by Coached.com (2021)
+Projects: Developed a personal portfolio website featuring interactive design projects and web applications
