@@ -23,11 +23,15 @@ a:hover {
 
 /* Section Styles */
 
+table {
+  border-spacing: 1rem 0.0625rem;
+}
+
 h2 {
   margin-top: 3rem;
 }
 
-span.job-title {
+span.job-date, .grad-date {
   float: right;
 }
 
