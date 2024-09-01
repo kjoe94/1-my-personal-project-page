@@ -13,15 +13,33 @@ body {
 }
 /* Link Styles */
 
-a {
+.main-nav a {
   text-decoration: none;
   color: #999;
 }
 a:hover {
-  color: #6633ff;
+  color: #fe8c00;
 }
 
 /* Section Styles */
+
+.message {
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 550;
+}
+
+#quote_page {
+  background-color: #949494;
+  color: #ffffff;
+  margin: 10px auto;
+  padding: 20px 40px 40px;
+  max-width: 900px;
+  text-align: left;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  box-shadow: 0px 0px 10px #ccc;
+}
 
 table {
   border-spacing: 1rem 0.0625rem;
@@ -92,10 +110,10 @@ header {
   line-height: 1.5;
 }
 header .profile-image {
-  margin-top: 50px;
+  margin-top: 100px;
   width: 150px;
   height: 150px;
-  border-radius: 50%;
+  border-radius: 5%;
   border: 3px solid white;
   transition: all .5s;
 }
@@ -115,7 +133,7 @@ header .profile-image:hover {
   color: yellow;
 }
 .card {
-  margin: 30px;
+  margin: 10px;
   padding: 20px 40px 40px;
   max-width: 500px;
   text-align: left;
@@ -130,7 +148,8 @@ header .profile-image:hover {
 
 ul.skills {
   padding: 0;
-  text-align: center;
+  text-align: left;
+  font-size: 0.85rem;
 }
 
 .skills li {
@@ -144,6 +163,10 @@ ul.skills {
 
 .skills li:nth-child(odd) {
   background: #0399ff;
+}
+
+.quotes {
+  text-align: center;
 }
 
 footer {
@@ -196,7 +219,6 @@ a.social:hover {
   .flex {
       display: -ms-flexbox;      /* TWEENER - IE 10 */
       display: flex; 
-      max-width: 1200px;
       -ms-flex-pack: distribute;
       justify-content: space-around;
       margin: 0 auto;
