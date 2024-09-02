@@ -224,11 +224,38 @@ a.social:hover {
       margin: 0 auto;
   }
 
-  header {
+.hobbies li {
+  margin-bottom: 1rem;
+}
+
+.icon_flex{
+    display:flex;
+  }
+
+.left img{
+  margin-top: 4rem;
+}
+
+.mid img{
+  width: 100%;
+  height: 70%;
+}
+
+.right img{
+  width: 40%;
+  height: auto;
+}
+
+.icons {
+  width:100%;
+  height: auto;
+}
+
+header {
     min-height: 470px;
   }
 
-  .nav {
+.nav {
     max-width: 1200px;
     padding: 0 30px;
   }
